@@ -1,0 +1,19 @@
+{
+    "name": "dy7338/multi_curl",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "王小乐",
+            "email": "491286281@qq.com"
+        }
+    ],
+    "require": {
+         "php": ">=5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Multi_curl\\": "src/"
+        }
+    }
+}
