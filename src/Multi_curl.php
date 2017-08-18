@@ -1,6 +1,5 @@
 <?php
-
-namespace MultiCurl;
+namespace Multi_Curl;
 
 
 /**
